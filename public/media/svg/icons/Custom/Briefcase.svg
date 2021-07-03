@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <filter id="oqg532plua" color-interpolation-filters="auto">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.239216 0 0 0 0 0.239216 0 0 0 0 0.282353 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g>
+            <g filter="url(#oqg532plua)" transform="translate(-24 -188) translate(24 188)">
+                <g stroke="#000" stroke-width="1.5">
+                    <rect width="22.5" height="16.5" x=".75" y="6" rx="1.5"/>
+                    <path d="M5.25 11.25L18.75 11.25M5.25 17.25L18.75 17.25M15.342 2.525c-.204-.612-.778-1.025-1.423-1.025h-3.838c-.645 0-1.219.413-1.423 1.025L7.5 6h9l-1.158-3.475zM3.75 6L3.75 4.5M20.25 6L20.25 4.5"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
